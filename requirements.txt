@@ -1,0 +1,8 @@
+Flask==2.1.0
+numpy
+pandas
+psycopg2-binary
+sqlalchemy
+scikit_learn==1.1.1
+gunicorn
+xgboos
