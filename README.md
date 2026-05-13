@@ -389,13 +389,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
 
----
 
-## Contact
+## Developer's info
 
 - **mutasim alkamil**
 - [LinkedIn](https://www.linkedin.com/in/mutasim-al-kamil-40a29931)
